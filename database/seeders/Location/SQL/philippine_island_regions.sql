@@ -1,0 +1,17 @@
+INSERT INTO island_regions VALUES (NULL, 1,'01', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 1, '02', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 1, '03', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 1, '04', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 1, '17', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 1, '05', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 2, '06', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 2, '07', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 2, '08', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 3, '09', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 3, '10', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 3, '11', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 3, '12', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 1, '13', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 1, '14', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 3, '15', NULL, NULL);
+INSERT INTO island_regions VALUES (NULL, 3, '16', NULL, NULL);

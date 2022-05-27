@@ -1,0 +1,9 @@
+messages
+ through text
+ through app
+
+leader view like dashboard all records are to be shown
+
+logs of leaders offline status hours and time and date
+
+analytics voter recruits growth time and date

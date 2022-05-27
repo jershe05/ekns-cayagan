@@ -1,0 +1,26 @@
+@import "../global";
+
+// Coreui
+// @import '../variables';
+
+// $theme-colors: (
+//     sidebar-color: red
+// );
+// $sidebar-color: red;
+// $sidebar-width: 500px;
+
+// @import '~mdb-ui-kit/src/scss/mdb.free.scss';
+@import '~@coreui/coreui/scss/coreui';
+
+// // Optional
+// @import "~@coreui/coreui/scss/reboot";
+// @import "~@coreui/coreui/scss/type";
+// @import "~@coreui/coreui/scss/images";
+// @import "~@coreui/coreui/scss/code";
+// @import "~@coreui/coreui/scss/grid";
+
+@import '~@coreui/icons/css/free.min.css';
+
+// @import '../bootswatch';
+
+@import '~leaflet/dist/leaflet.css';
